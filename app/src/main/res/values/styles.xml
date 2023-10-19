@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="StyledTilEditTextTheme1">
+        <item name="colorControlNormal">@color/color_gradient_end</item>
+        <item name="colorControlActivated">@color/color_gradient_end</item>
+        <item name="boxStrokeColor">@color/color_gradient_end</item>
+    </style>
+
+    <style name="StyledTilEditText1" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:theme">@style/StyledTilEditTextTheme1</item>
+    </style>
+
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/color_gradient_end</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+    <style name="AppThemeThree" parent="Theme.MaterialComponents.Light.DarkActionBar.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/color_transparent</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:typeface">serif</item>
+
+    </style>
+    <style name="AppThemeThree.NoActionBar2">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+
+
+    </style>
+</resources>

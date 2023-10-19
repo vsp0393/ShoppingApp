@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PurchaseApp</string>
+    <string name="in_demand">In demand</string>
+    <string name="color">Color</string>
+    <string name="size">Size</string>
+    <string name="quantity">Quantity</string>
+    <string name="seller_policy">Seller Policy</string>
+    <string name="free_shipping_on_overs_above_2000">Free shipping on overs above ₹ 2000</string>
+    <string name="shipping">Shipping</string>
+    <string name="return_exchange">Returns/Exchange</string>
+    <string name="returns_accepted_within_15days_of_delivery">Returns accepted within 15days of delivery</string>
+    <string name="cancellation">Cancellation</string>
+    <string name="can_t_be_cancelled_after_purchase">Can’t be cancelled after purchase.</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="shop_confidently_on_buyok_knowing_if_something_goes_wrong_with_an_order_we_ve_got_your_back_for_all_eligible_purchases">Shop confidently on BuyOk knowing if something goes wrong with an order, we\'ve got your back for all eligible purchases</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="out_of_stock">Outstock</string>
+    <string name="buyok_verifed">buyok verifed</string>
+    <string name="buyok_purchase_protection">BuyOk Purchase Protection</string>
+    <string name="done">Done</string>
+    <string name="read_item_description">Read item description</string>
+</resources>
